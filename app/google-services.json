@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591989589848",
+    "project_id": "daring-agent-131616"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591989589848:android:72521ff716647913",
+        "android_client_info": {
+          "package_name": "com.example.giaccomo.securityconnexion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591989589848-ramh7vs7doi7fkkjcgle477usopn7pl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giaccomo.securityconnexion",
+            "certificate_hash": "887AC2A845DF2B8009BF3B11B875BA3A93E9A911"
+          }
+        },
+        {
+          "client_id": "591989589848-sr0gk0lrjsf407etfq4eun3l61ggibpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYpekF45FOEbsgpvlZs8t4DO1Pn-WO3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
